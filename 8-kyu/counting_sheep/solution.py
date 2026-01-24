@@ -5,3 +5,6 @@ def count_sheeps(sheep):
             found += 1
 
     return found
+
+# def count_sheeps(sheep):
+#     return sheep.count(True)
