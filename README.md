@@ -6,9 +6,9 @@ This repository contains my solutions to various challenges (kata) from Codewars
 [My Codewars Profile](https://www.codewars.com/users/ana_dim)
 
 ## Repository Structure
-- `8-kyu/` — Beginner level tasks (basic syntax, loops, etc.)
-- `7-kyu/` — Intermediate level tasks (logic, basic algorithms)
-- `6-kyu/` — Advanced intermediate (more complex logic and data structures)
+- `8-kyu/` — Novice level tasks (basic syntax, loops, etc.)
+- `7-kyu/` — Beginner level tasks (logic, basic algorithms)
+- `6-kyu/` — Elementary level tasks (more complex logic and data structures)
 
 ## Tech Stack
 - **Language:** Python 3.14
