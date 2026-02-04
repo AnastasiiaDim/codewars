@@ -6,5 +6,5 @@ def accum(s):
     return "-".join(result)
 
 #for i, char in enumerate("abcd", start=1):
-    print(char * i) # prints a, bb, ccc, dddd
+    #print(char * i) # prints a, bb, ccc, dddd
 
