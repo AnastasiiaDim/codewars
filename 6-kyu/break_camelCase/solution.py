@@ -1,7 +1,7 @@
-def solution(s):
+def solution(string):
     result = []
 
-    for char in s:
+    for char in string:
         if char.isupper():
             result.append(" ")
         result.append(char)
